@@ -51,13 +51,6 @@ Here's a closer look at the technologies I work with:
   - Amazon Web Services (AWS)
   - Microsoft Azure
 
-## 🚀 Projects
-
-### Some of My Featured Work:
-- **[Project Name 1](#):** A brief description of the project, what technologies were used, and the impact it made.
-- **[Project Name 2](#):** Another project, highlighting your role, the challenges faced, and the solutions implemented.
-- **[Project Name 3](#):** Description of a mobile app, backend service, or full-stack application you've built.
-
 I’m constantly working on new ideas and contributing to open-source projects. Be sure to check back regularly for updates!
 
 ## 🌐 How I Work
