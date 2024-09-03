@@ -70,6 +70,7 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 - **LinkedIn:** [Elhassen Sidi Mahmoud](https://www.linkedin.com/in/elhassen-sidi-mahmoud)
 - **GitHub:** [Elhacen-code](https://github.com/Elhacen-code)
 
-<a href="https://app.daily.dev/elhassen"><img src="https://api.daily.dev/devcards/v2/lYhxzc4VixB70EbofxTes.png?type=default&r=c8d" width="356" alt="elhassen sidi mahmoud's Dev Card"/></a>       https://portfolly.io/elhacen-code
+<a href="https://app.daily.dev/elhassen"><img src="https://api.daily.dev/devcards/v2/lYhxzc4VixB70EbofxTes.png?type=default&r=c8d" width="356" alt="elhassen sidi mahmoud's Dev Card"/></a>       
+[Link Text][https://portfolly.io/elhacen-code]
 
 Thank you for visiting my GitHub profile. Let’s build something amazing together!
