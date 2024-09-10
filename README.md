@@ -71,7 +71,6 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 - **GitHub:** [Elhacen-code](https://github.com/Elhacen-code)
 
 <a href="https://app.daily.dev/elhassen"><img src="https://api.daily.dev/devcards/v2/lYhxzc4VixB70EbofxTes.png?type=default&r=c8d" width="356" alt="Elhassen sidi mahmoud's Dev Card"/></a>       
-[Link Text][https://portfolly.io/elhacen-code]
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto; width: max-content;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elhacen-code&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="Elhacen-code's Top Languages" style="width: calc(33.33% - 10px); margin: 5px;">
