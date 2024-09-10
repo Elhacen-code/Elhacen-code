@@ -70,7 +70,13 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 - **LinkedIn:** [Elhassen Sidi Mahmoud](https://www.linkedin.com/in/elhassen-sidi-mahmoud)
 - **GitHub:** [Elhacen-code](https://github.com/Elhacen-code)
 
-<a href="https://app.daily.dev/elhassen"><img src="https://api.daily.dev/devcards/v2/lYhxzc4VixB70EbofxTes.png?type=default&r=c8d" width="356" alt="elhassen sidi mahmoud's Dev Card"/></a>       
+<a href="https://app.daily.dev/elhassen"><img src="https://api.daily.dev/devcards/v2/lYhxzc4VixB70EbofxTes.png?type=default&r=c8d" width="356" alt="Elhassen sidi mahmoud's Dev Card"/></a>       
 [Link Text][https://portfolly.io/elhacen-code]
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto; width: max-content;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elhacen-code&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="Elhacen-code's Top Languages" style="width: calc(33.33% - 10px); margin: 5px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elhacen-code&theme=monokai&hide_border=false" alt="Elhassen's Streak" style="width: calc(33.33% - 10px); margin: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Elhacen-code&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="Elhassen's Stats" style="width: calc(33.33% - 10px); margin: 5px;">
+  </div>
 
 Thank you for visiting my GitHub profile. Let’s build something amazing together!
