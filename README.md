@@ -62,14 +62,6 @@ I believe in the power of collaboration and continuous learning. I thrive in env
 - **Continuous Integration & Continuous Deployment (CI/CD):** Automating testing, building, and deployment to deliver features faster and more reliably.
 - **Cloud-Native Development:** Designing applications to fully leverage the cloud, ensuring they are scalable, resilient, and easy to manage.
 
-## 📫 Contact Me
-
-I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's connect!
-
-- **Email:** [elhassensdmh@gmail.com](mailto:elhassensdmh@gmail.com)
-- **LinkedIn:** [Elhassen Sidi Mahmoud](https://www.linkedin.com/in/elhassen-sidi-mahmoud)
-- **GitHub:** [Elhacen-code](https://github.com/Elhacen-code)
-
 <a href="https://app.daily.dev/elhassen"><img src="https://api.daily.dev/devcards/v2/lYhxzc4VixB70EbofxTes.png?type=default&r=c8d" width="356" alt="Elhassen sidi mahmoud's Dev Card"/></a>       
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto; width: max-content;">
